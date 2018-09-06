@@ -9,6 +9,6 @@ This project is based on the Design-Mockup-Portfolio supporting materials of the
 Created using framework Materialize and Knockout.js
 
 **How to run**
-1. Download the project
+1. Download the project at Documents/GitHub/Project1Portfolio
 2. Open index.html in a browser
 
