@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 (function(){
 
   const MVC = function MVC() {
@@ -12,3 +13,7 @@
 =======
 const MVC = function
 >>>>>>> 760cca034fe33b347dc12e4d4338c6aba4f1aa68
+||||||| merged common ancestors
+=======
+const MVC = function
+>>>>>>> fcf07fc2ec8ae4f3de7cdeb0aac85f6066d1f03b

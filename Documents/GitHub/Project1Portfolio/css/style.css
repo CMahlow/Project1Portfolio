@@ -1,5 +1,6 @@
+
 body{
-  background-color: #dacabf;
+  background-color: #fffff;
 
 
 #main-container{
@@ -9,8 +10,8 @@ body{
 .middlr{
   display: block;
   margin: auto;
+
 }
-<<<<<<< HEAD
 .text-center{
   text-align: center;
 }
