@@ -14,6 +14,12 @@ body{
 	max-width: 880px;
 }
 
+.row {
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+}
+
 .col-3 {
 	width: 25%;
 }
