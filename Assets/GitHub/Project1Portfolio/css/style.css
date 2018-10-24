@@ -8,6 +8,16 @@ body{
   margin-top: 70px;
 }
 
+
+.grid {
+	margin: 0 auto;
+	max-width: 880px;
+}
+
+.col-3 {
+	width: 25%;
+}
+
 .middlr{
   display: block;
   margin: auto;
